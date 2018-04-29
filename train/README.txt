@@ -1,4 +1,4 @@
-Download test.csv from:
+Download train.csv from:
 
 https://www.kaggle.com/c/quora-question-pairs/data
 
