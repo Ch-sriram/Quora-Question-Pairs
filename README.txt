@@ -19,7 +19,7 @@ Anyone can view the code by simply navigating through the directories as:
 	code > html > [open the code you want]
     
 [or]
-    code > pdf > [open the code you want]
+        code > pdf > [open the code you want]
     
 
 
@@ -30,4 +30,4 @@ anyone
 can open the .ipynb file (JuPyteR Notebook) and edit the code, and see how the code behaves.
 
 The files related to this project are also available on github/googledrive:
-	
+	https://drive.google.com/open?id=1uAflZXlgDTPg4yjVV2nZMhg8t_b5Vktp
