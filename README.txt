@@ -28,7 +28,7 @@ Head of the Department of CSE: Mrs. P. Lavanya, Associate Professor
 5. It is not recommended to run the code from a Standalone Python 3.6 Interpreter.
 
 6. Please follow the video link given above and install all the pre-requisite packages and then, anyone can open the .ipynb file 
-(JuPyteR Notebook) and edit the code, and see how the code behaves. For any JuPyteR Notebook Queries, refer the following link: 
+   (JuPyteR Notebook) and edit the code, and see how the code behaves. For any JuPyteR Notebook Queries, refer the following link: 
 	https://jupyter-notebook.readthedocs.io/en/stable/
 
 7. The files related to this project are also available on the following gDrive link:
