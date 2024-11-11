@@ -21,10 +21,11 @@
    - Find all the necessary software packages [here](https://drive.google.com/open?id=1R_By1XhDSF9htOqoSwRql3oW1Neu0i1V).
 3. Navigation:
    - view code: `code > [html|pdf] > [open-any-file]`
-   - build code: `build > [open-any-JuPyteR-notebook] > [run-that-ipynb-file-again]` 
+   - build code: `build > [open-any-JuPyteR-notebook] > [run-that-ipynb-file-again]`
 
    > [!NOTE]
    > It is not recommended to build/run the code via a Standalone Python 3.6 Interpreter on individual python files inside [build](./build) directory.
+
 4. For any JuPyteR (`.ipynb`) Notebook Queries, check the documentation [here](https://jupyter-notebook.readthedocs.io/en/stable/).
 
 > [!IMPORTANT]
